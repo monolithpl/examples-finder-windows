@@ -1,0 +1,15 @@
+{$I COMPILERS.INC}
+{$R-,Q-} //no-rangechecking, no-overflowchecking
+{.$D-} //no-debug
+
+{$IFDEF DELPHI_6_UP}
+  {$WARN SYMBOL_PLATFORM OFF}
+  {$WARN UNIT_PLATFORM OFF}
+  {$IFDEF DELPHI_7_UP}
+    {$WARN UNSAFE_CAST OFF}
+    {$WARN UNSAFE_CODE OFF}
+    {$WARN UNSAFE_TYPE OFF}
+  {$ENDIF}
+{$ENDIF}
+
+
