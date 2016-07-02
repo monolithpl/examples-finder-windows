@@ -8,7 +8,7 @@ Find usage examples of English words from authoritative dictionary sources. Perf
 - simple and elegant interface
 
 ### screenshot
-![screenshot](https://raw.githubusercontent.com/monolithpl/examples-finder-windows/master/examples-finder.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/monolithpl/examples-finder-windows/master/examples-finder-screenshot.png "screenshot")
 
 ### quickstart
 1. Download the [release zip archive](https://github.com/monolithpl/examples-finder-windows/releases/download/1.0/examples-finder-1.0.zip)
