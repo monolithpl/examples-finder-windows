@@ -1,2 +1,24 @@
-# examples-finder-windows
-Examples finder for Windows
+# Examples finder for Windows
+Find usage examples of English words from authoritative dictionary sources. Perfect for ESL students and teachers alike. Works on any version of Windows (XP - 7 - 8 - 10, probably even on Windows 95!)
+
+### features
+- super fast: uses *fast* charpos unit from [softindo](http://delphi.softindo.net)
+- highlights the target word in each sentence
+- fully offline, native code
+- simple and elegant interface
+
+### quickstart
+1. Download the [zip archive](https://github.com/monolithpl/examples-finder-windows/archive/master.zip)
+2. Unpack to directory of choice
+3. That's it! Run ```examples-finder.exe``` (tested on all versions of Windows)
+
+### compiling from source
+1. You'll need Borland Delphi 7+ (importing the project into FreePascal Lazarus also works fine but produces code that's sluggish and bloated)
+2. The components you'll need to install are included in the ```components``` folder
+3. That's it!
+
+
+MIT License
+
+Copyright 2016 Wiktor Jakubczyc
+
