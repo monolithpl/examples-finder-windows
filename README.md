@@ -11,7 +11,7 @@ Find usage examples of English words from authoritative dictionary sources. Perf
 ![screenshot](https://raw.githubusercontent.com/monolithpl/examples-finder-windows/master/examples-finder.png "screenshot")
 
 ### quickstart
-1. Download the [zip archive](https://github.com/monolithpl/examples-finder-windows/archive/master.zip)
+1. Download the [release zip archive](https://github.com/monolithpl/examples-finder-windows/releases/download/1.0/examples-finder-1.0.zip)
 2. Unpack to directory of choice
 3. That's it! Run ```examples-finder.exe``` (tested on all versions of Windows)
 
