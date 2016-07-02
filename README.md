@@ -1,4 +1,4 @@
-# Examples finder for Windows
+# Examples Finder for Windows
 Find usage examples of English words from authoritative dictionary sources. Perfect for ESL students and teachers alike. Works on any version of Windows (XP - 7 - 8 - 10, probably even on Windows 95!)
 
 ### features
